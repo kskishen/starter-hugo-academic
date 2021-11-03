@@ -1,26 +1,26 @@
 ---
-title: The Evolution of Quantitative Economics through Mathematical and Data Modelling
+title: Exciting and Unique Research in Economics and Data Analysis at University of Cambridge
 
 event: The Datapreneur Podcast
-event_url: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTA0NjU0Ny9lcGlzb2Rlcy9mZWVk/episode/YjU5MzdmYzAtZDVlYS00MjVkLWEwMTMtNDYyMjc1ZmNkOGRk?sa=X&ved=0CAUQkfYCahcKEwiYqu_K7_nzAhUAAAAAHQAAAAAQAQ
+event_url: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTA0NjU0Ny9lcGlzb2Rlcy9mZWVk/episode/MGE5ODY5MzctZjI0My00YmMzLWJiNmItOTA2YTZiOWNiMDI0?sa=X&ved=0CAUQkfYCahcKEwj4qb_D3fvzAhUAAAAAHQAAAAAQAQ
 
 
-summary: Part I of the podcast with Uttkarsh Kohli on the Dataprenuer Podcast 
-abstract: "The field of Economics has evolved from purely theoretical studies since the time of Adam Smith due to increased importance of mathematical theory and data thanks to economists like Paul Samuelson. In this episode we discuss the journey of modern economics through the contribution of influential economists and the use of mathematical models in Econometrics. 
+summary: Part II of the podcast with Uttkarsh Kohli on the Dataprenuer Podcast 
+abstract: "Kishen is pursuing his PhD in Economics at the University of Cambridge and his research is mainly based on Empirical Macroeconomics. He is involved in numerous innovative projects which require working with a lot of Data.
 
-Kishen is pursuing his PhD in Economics at the University of Cambridge and his research is mainly based on Empirical Macroeconomics. He is involved in numerous innovative projects which require working with a lot of Data. The quality of research depends on Data used and the standards for good research are extremely high due to the strong foundation in Mathematics and Statistics in Econometrics. Join us as we learn about the exciting research going on at University of Cambridge!"
+In this episode we discuss the the exciting and unique research going on at University of Cambridge, the role data plays in economics research, and the quality of Data required to produce high level research outputs. Analysis of Data for rigorous results often comes with numerous problems that require clever solutions."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-19T11:00:00Z"
+date: "2021-10-29T11:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-10-19T11:00:00Z"
+publishDate: "2021-10-29T11:00:00Z"
 
-authors: []
-tags: []
+#authors: []
+#tags: []
 
 # Is this a featured talk? (true/false)
 featured: false

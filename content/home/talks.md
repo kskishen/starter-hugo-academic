@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Recent Talks'
 subtitle:
 
 content:
@@ -30,6 +30,7 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  
 
 design:
   # Choose a view for the listings:
@@ -38,4 +39,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+
 ---
+
+

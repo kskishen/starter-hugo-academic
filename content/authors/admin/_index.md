@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a student of PhD in Economics at the University of Cambridge. My research interests include development economics, institutional economics and netowrk economics. I am also a Research Assistant at [The Keynes Fund](https://www.keynesfund.econ.cam.ac.uk/) working on the [Religion and Covid-19](https://www.keynesfund.econ.cam.ac.uk/iyer-religion-and-covid-19) project.
+I am a student of PhD in Economics at the University of Cambridge. My research interests include development economics, institutional economics and network economics. I am also a Research Assistant at [The Keynes Fund](https://www.keynesfund.econ.cam.ac.uk/) working on the [Religion and Covid-19](https://www.keynesfund.econ.cam.ac.uk/iyer-religion-and-covid-19) project.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

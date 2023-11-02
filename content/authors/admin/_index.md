@@ -69,4 +69,4 @@ highlight_name: true
 
 I am a PhD student in Economics at the University of Cambridge. My research interests include development economics, institutional economics and network economics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume2.pdf" "newtab" >}}resumé{{< /staticref >}}.

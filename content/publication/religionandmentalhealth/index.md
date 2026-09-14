@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Girish Bahal
 - Sriya Iyer
-- Kishen Shastry
+- admin
 - Anand Shrivastava
 tags:
 - '"Mental Health"'

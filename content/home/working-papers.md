@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 35
 
-title: 'Publications'
+title: 'Working Papers'
 subtitle:
 
 content:
@@ -25,7 +25,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-    publication_type: "2"
+    publication_type: "3"
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.

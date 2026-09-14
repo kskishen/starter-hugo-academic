@@ -23,6 +23,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Research Associate
+    company: Cambridge Centre for Alternative Finance, Judge Business School
+    company_url: 'https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/'
+    location: Cambridge, UK
+    date_start: '2026-01-01' # TODO: set to actual start date
+    date_end: ''
+    description: Research on digital identity, e-KYC and digital public infrastructure in emerging markets.
+
+  - title: Economist and Programme Lead
+    company: Global Development Network
+    company_url: 'https://www.gdn.int/'
+    location: London, UK
+    date_start: '2024-01-01' # TODO: set to actual start date
+    date_end: ''
+    description: Lead the economics workstream of a Gates Foundation programme on open transaction networks.
+
   - title: Research Intern
     company: World Trade Organization (WTO)
     company_url: 'https://www.wto.org/'

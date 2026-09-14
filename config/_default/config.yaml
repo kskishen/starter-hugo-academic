@@ -5,7 +5,7 @@
 
 title: Kishen Shastry # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Kishen Shastry' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

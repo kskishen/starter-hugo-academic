@@ -6,9 +6,9 @@ event_url: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3No
 
 
 summary: Part II of the podcast with Uttkarsh Kohli on the Dataprenuer Podcast 
-abstract: "Kishen is pursuing his PhD in Economics at the University of Cambridge and his research is mainly based on Empirical Macroeconomics. He is involved in numerous innovative projects which require working with a lot of Data.
+abstract: "Recorded in October 2021, during my PhD in Economics at the University of Cambridge.
 
-In this episode we discuss the the exciting and unique research going on at University of Cambridge, the role data plays in economics research, and the quality of Data required to produce high level research outputs. Analysis of Data for rigorous results often comes with numerous problems that require clever solutions."
+In this episode we discuss the exciting and unique research going on at University of Cambridge, the role data plays in economics research, and the quality of Data required to produce high level research outputs. Analysis of Data for rigorous results often comes with numerous problems that require clever solutions."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

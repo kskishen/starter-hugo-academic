@@ -14,7 +14,7 @@ organizations:
   url: https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Economist with a PhD from the University of Cambridge and Postdoctoral Research Associate at the Cambridge Centre for Alternative Finance, working on development economics, the economics of religion and informal institutions, and digital technologies and platforms.
+bio: Economist with a PhD from the University of Cambridge and Postdoctoral Research Associate at the Cambridge Centre for Alternative Finance, working on development economics, the economics of religion and informal institutions, political economy, and the economics of digital technologies and platforms.
 
 # Interests to show in About widget
 interests:
@@ -32,7 +32,7 @@ education:
   - course: MPhil in Economic Research
     institution: University of Cambridge
     year: 2021
-  - course: MA in International Economics
+  - course: Masters in International Economics
     institution: The Graduate Institute Geneva
     year: 2020
   - course: BTech in Computer Engineering
@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-I am an economist with a PhD from the University of Cambridge, and a Postdoctoral Research Associate at the Cambridge Centre for Alternative Finance, Judge Business School. I work in applied microeconomics and development economics. My primary field is the economics of religion and informal institutions, and I work secondarily on the economics of digital technologies and platforms.
+I am an economist with a PhD from the University of Cambridge, and a Postdoctoral Research Associate at the Cambridge Centre for Alternative Finance, Judge Business School. I work on development economics, the economics of religion and informal institutions, political economy, and the economics of digital technologies and platforms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.

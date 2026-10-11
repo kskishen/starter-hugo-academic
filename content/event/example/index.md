@@ -8,7 +8,7 @@ event_url: https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3No
 summary: Part I of the podcast with Uttkarsh Kohli on the Dataprenuer Podcast 
 abstract: "The field of Economics has evolved from purely theoretical studies since the time of Adam Smith due to increased importance of mathematical theory and data thanks to economists like Paul Samuelson. In this episode we discuss the journey of modern economics through the contribution of influential economists and the use of mathematical models in Econometrics. 
 
-Kishen is pursuing his PhD in Economics at the University of Cambridge and his research is mainly based on Empirical Macroeconomics. He is involved in numerous innovative projects which require working with a lot of Data. The quality of research depends on Data used and the standards for good research are extremely high due to the strong foundation in Mathematics and Statistics in Econometrics. Join us as we learn about the exciting research going on at University of Cambridge!"
+Recorded in October 2021, during my PhD in Economics at the University of Cambridge."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -18,6 +18,10 @@ tags:
   - Platform Economics
   - Digital Public Infrastructure
   - Open Transaction Networks
+image:
+  caption: "Compliance regimes when each platform opens neither side (N), the buyer side (B), the seller side (S) or all sides (A)"
+  focal_point: "Center"
+  preview_only: false
 links:
   - name: GDN programme page
     url: "https://gdn.int/digitalisation"

@@ -19,3 +19,24 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# Old URLs still indexed by search engines
+[[redirects]]
+  from = "/uploads/Resume2.pdf"
+  to = "/uploads/cv.pdf"
+  status = 301
+
+[[redirects]]
+  from = "/uploads/resume.pdf"
+  to = "/uploads/cv.pdf"
+  status = 301
+
+[[redirects]]
+  from = "/publication/repec-cam-camdae-2302/*"
+  to = "/publication/religionandmentalhealth/"
+  status = 301
+
+[[redirects]]
+  from = "/author/kishen-shastry/*"
+  to = "/"
+  status = 301

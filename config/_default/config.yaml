@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kishen Shastry # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://kishenshastry.com/' # Website URL
 copyright: '© {year} Kishen Shastry' # Footer text, e.g. '© {year} Me'
 
 ############################
